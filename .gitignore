@@ -2,3 +2,7 @@ node_modules/
 .cache/
 public
 .vs
+.idea
+
+exclude .gitignore
+exclude .idea
